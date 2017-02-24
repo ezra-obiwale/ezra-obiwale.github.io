@@ -1,5 +1,5 @@
 # Git Projects/Libraries
-----
+
 ## PHP
 
 - [dbScribe](http://ezra-obiwale.github.io/dbScribe)
